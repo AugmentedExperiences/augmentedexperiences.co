@@ -1,0 +1,70 @@
+url: https://augmentedexperience.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Augmented Experiences
+email: amcelroy@augmentedexperiences.com
+description: "Augmented Experiences tells your story in a hybrid medium that paper alone cannot tell. We are bringing the best story telling technology to ever exist to the public in a non-intimidating form."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+# Team names, titles and social links
+people:
+- name: Elaine Reynolds
+  pic: 1
+  position: CEO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Andrew McElroy
+  pic: 2
+  position: CTO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Matt Madden
+  pic: 3
+  position: Chief World Wide Sales Officer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Coming Soon
+  - line: Nashville, TN 37027
+
+# Build settings
+markdown: kramdown
+permalink: pretty
